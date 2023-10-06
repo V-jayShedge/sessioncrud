@@ -1,0 +1,25 @@
+.btn-color{
+    background-color: #0e1c36;
+    color: #fff;
+    
+  }
+  
+  .myCard {
+    height: 200px;
+  }
+
+  .profile-image-pic{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+  }
+  
+  
+  
+  .cardbody-color{
+    background-color: #ebf2fa;
+  }
+  
+  a{
+    text-decoration: none;
+  }
